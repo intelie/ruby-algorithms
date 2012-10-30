@@ -6,14 +6,6 @@ algorithms.gemspec
 benchmarks/deque.rb
 benchmarks/sorts.rb
 benchmarks/treemaps.rb
-ext/algorithms/string/extconf.rb
-ext/algorithms/string/string.c
-ext/containers/deque/deque.c
-ext/containers/deque/extconf.rb
-ext/containers/rbtree_map/extconf.rb
-ext/containers/rbtree_map/rbtree.c
-ext/containers/splaytree_map/extconf.rb
-ext/containers/splaytree_map/splaytree.c
 lib/algorithms.rb
 lib/algorithms/search.rb
 lib/algorithms/sort.rb
